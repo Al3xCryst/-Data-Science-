@@ -63,6 +63,7 @@
 
 Итог: подбор порога сохранил высокий recall, уменьшил кол-во ложных тревог FP - хороший результатом для такой задачи
  
+<img width="391" height="306" alt="image" src="https://github.com/user-attachments/assets/4449ed50-c21a-496e-9319-2cb52b159f86" />
 
 
   
